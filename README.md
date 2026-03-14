@@ -231,3 +231,7 @@ ros2 launch cobot_foxy run_system.launch.py
 
 ##  단축키 (Hotkeys)
 * `q` : 프로그램 종료
+
+## 시연 영상
+
+https://drive.google.com/file/d/13_npl5bLK1aVbav5cL8IR3ANwqk8H31B/view?usp=sharing 
