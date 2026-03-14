@@ -6,8 +6,6 @@
 
 여기에 **음성 인식(Whisper) 및 LLM(GPT-4o)** 기반의 자연어 명령 처리와 두산 협동 로봇 제어 기능이 추가되어 종합적인 스마트 작업 어시스턴트 시스템으로 확장되었습니다.
 
-![System Architecture](system.png)
-
 ---
 
 ##  주요 기능 (Key Features)
@@ -25,10 +23,6 @@
 * **Robot Pick & Place**: 추출된 6D Pose를 바탕으로 두산 협동 로봇(m0609)과 OnRobot RG2 그리퍼를 제어하여 임무를 수행합니다.
 
 ---
-
-##  시스템 워크플로우 (System Workflow)
-
-![Flowchart](flowchart.jpg)
 
 1. **명령 입력**: 작업자가 마이크로 지시사항을 말합니다.
 2. **AI 분석**: STT가 텍스트로 변환하고, LLM이 키워드(객체, 목적지)를 추출하여 전달합니다.
