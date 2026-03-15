@@ -1,5 +1,5 @@
-#  JIUM (지음) : AI 기반 협동 로봇 작업 어시스턴트
-> K-Digital Training 과정 협동-2팀(곽준영, 김동국, 박경모, 이동현) 프로젝트
+#  JIUM (지음) : 목조 건축 로봇 자동화 프로젝트
+> ROKEY K-Digital Training 과정 협동-2팀(곽준영, 김동국, 박경모, 이동현) 프로젝트
 
 ##  FoundationPose-YOLO Lego Grasping Node (ROS 2) & Voice Command
 이 패키지는 RGB-D 카메라(RealSense) 영상과 YOLOv8을 이용해 특정 레고 블록을 탐지하고, FoundationPose를 통해 로봇 팔이 잡을 수 있도록 객체의 6D Pose(x, y, z, roll, pitch, yaw)와 상태(Pose Code)를 실시간으로 추정하여 퍼블리시하는 ROS 2 노드입니다.
